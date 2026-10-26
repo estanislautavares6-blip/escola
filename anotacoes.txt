@@ -1,0 +1,3 @@
+"Estudar Git e CMD" 
+"Segunda linha de notas" 
+"terceiralinha de notas" 
