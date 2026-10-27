@@ -1,2 +1,4 @@
 "Aula de Hoje" 
 "add new line to day 7"
+add line for sit github.
+today i gone to school.
